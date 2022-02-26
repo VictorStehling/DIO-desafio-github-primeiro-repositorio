@@ -1,0 +1,41 @@
+# Comandos Terminal - GIT / GITHUB
+
+* **DIR =>** Lista todas as pastas / arquivos contidos no "repositório".
+
+* **CD =>**  Utilizado para realizar a navegação entre as pastas (Adentrar as pastas).
+
+* **CD .. =>** Utilizado para realizar a navegação entre as pastas (Retroceder as pastas).
+
+* **CLS=>** Limpar terminal.
+
+* **MKDIR=>**  Utilizado para a criação de pastas.
+
+* **RMDIR =>** Utilizado para a exclusão de pastas. Caso hajam mais conteúdos dentro da pasta que se deseja excluir, utilizar as **Flags: /s /q** para deletar a pasta com todo seu conteudo.
+
+* **ECHO =>** Utilizado para exibir uma mensagem na tela / documento. Após o comando **echo** inserir um **>** e posteriormente o **nome do arquivo**, ele ira criar um arquivo  **.txt** com o conteúdo do comando **echo**.
+
+   <u>**EX:**</u> **echo** comandosGit **>** comandosGit.txt
+
+* **DELL =>** Comando para deletar um arquivo.
+
+* **GIT INIT =>** Comando para criar / inicializar um novo repositório.
+
+* **GIT ADD =>** Comando para adicionar um novo arquivo / pasta criada. 
+
+* **GIT ADD * ou ADD . ou ADD -A =>** Comando para adicionar **todos** os novos arquivos / pastas criadas.
+
+* **GIT PULL =>** Comando utilizado para baixar os arquivos do repositório.
+
+* **GIT PUSH =>** Comando utilizado para enviar os arquivos para o repositório.
+
+* **GIT COMMIT =>** Comando para realizar o commit dos arquivos alterados. (**utilizar o -m " "** para inserir uma mensagem de commit)
+
+* **GIT STATUS =>** Comando utilizado para verificar o status dos arquivos alterados e que ainda não foram adicionados.
+
+* **GIT REMOTE ADD =>** Comando utilizado para permitir que um usuário se conecte a um repositório remoto.
+
+* **GIT REMOTE -V =>** Comando utilizado para listar os repositórios remotos configurados. 
+
+* **GIT STATUS =>** Comando utilizado para verificar o status dos arquivos alterados e que ainda não foram adicionados.
+
+* **GIT CLONE =>** Comando utilizado para clonar um repositório.
